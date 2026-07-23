@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zecky Gaming 254 | DLS Fan Hub</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>ZECKY GAMING 254</h1>
+    <p>🇰🇪 Kenya's Dream League Soccer Fan Hub</p>
+</header>
+
+<nav>
+    <a href="#">Home</a>
+    <a href="#">DLS Tips</a>
+    <a href="#">News</a>
+    <a href="#">Gallery</a>
+    <a href="#">Contact</a>
+</nav>
+
+<section class="hero">
+    <h2>Welcome to Zecky Gaming 254</h2>
+    <p>Your number one destination for Dream League Soccer news, tips, formations and gameplay content.</p>
+
+    <a href="#" class="btn">Explore DLS Guides</a>
+</section>
+
+<section class="cards">
+
+<div class="card">
+<h3>⚽ DLS Tips</h3>
+<p>Learn formations, gameplay tricks, player recommendations and legitimate ways to improve your club.</p>
+</div>
+
+<div class="card">
+<h3>🔥 Latest News</h3>
+<p>Stay updated with Dream League Soccer updates and community news.</p>
+</div>
+
+<div class="card">
+<h3>🎥 Videos</h3>
+<p>Watch gameplay, tutorials and football highlights.</p>
+</div>
+
+</section>
+
+<section class="about">
+<h2>About Us</h2>
+
+<p>
+Zecky Gaming 254 is a Kenyan fan platform dedicated to Dream League Soccer.
+We share guides, gameplay tips, football content and gaming news for the community.
+</p>
+
+</section>
+
+<section class="contact">
+
+<h2>Contact</h2>
+
+<p>📍 Kenya</p>
+
+<p>📞 Phone: 0113068017</p>
+
+<p>💬 WhatsApp:
+<a href="https://wa.me/254113068017">Chat Now</a>
+</p>
+
+<p>📧 Email:
+<a href="mailto:danowuoth06@gmail.com">danowuoth06@gmail.com</a>
+</p>
+
+<p>📷 Instagram:
+<a href="https://instagram.com/Zeckydaniel06">@Zeckydaniel06</a>
+</p>
+
+<p>🎵 TikTok:
+<a href="https://www.tiktok.com/@zecky.daniel">@zecky.daniel</a>
+</p>
+
+</section>
+
+<footer>
+
+<p>© 2026 Zecky Gaming 254</p>
+
+<p>Play Smart. Win More.</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+  </html>
